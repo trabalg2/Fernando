@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//teste
 //struct de cadastro do cliente
 typedef struct cadastro{
   int codigo;
